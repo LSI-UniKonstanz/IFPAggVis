@@ -8,4 +8,4 @@ Available as jupyter-notebook files in the tutorials directory.
 ### Installation
 An anaconda yaml file (prolif-ifpaggvis.yml) is provided for easy installation as new anaconda environment:
 
-conda env create -f prolif-ifpaggvis.yml
+<code> conda env create -f prolif-ifpaggvis.yml <code>
