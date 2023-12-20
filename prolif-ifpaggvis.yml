@@ -223,4 +223,4 @@ dependencies:
     - mdanalysis==2.4.0
     - pip==22.3.1
     - prolif==1.0.0
-prefix: /home/sabrina/anaconda3/envs/prolif-v2
+prefix: /home/sabrina/anaconda3/envs/prolif-ifpaggvis
