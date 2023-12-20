@@ -6,7 +6,7 @@ Methods for aggregation an visualisation of interaction fingerprints derived fro
 Available as jupyter-notebook files in the tutorials directory.
 
 ### Installation
-An anaconda yaml file (prolif-ifpaggvis.yml) is provided for easy installation as new anaconda environment:
+An anaconda yaml file (prolif-ifpaggvis.yml) is provided for easy installation as new anaconda environment. Please adjust the prefix at the bottom of the file to the path of your anaconda environment.
 
 <code> conda env create -f prolif-ifpaggvis.yml </code>
 
