@@ -3,3 +3,6 @@ Methods for aggregation an visualisation of interaction fingerprints derived fro
 
 
 ### Documentation
+Available as jupyter-notebook files in the tutorials directory.
+
+### Installation
