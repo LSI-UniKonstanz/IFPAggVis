@@ -2,7 +2,7 @@ import pandas as pd
 import tqdm
 import numpy as np
 import re
-from IFPAggVis.ifpaggvis.visualise import colour_based_on_interaction
+from ifpaggvis.visualise import colour_based_on_interaction
 
 def summarise_two_interaction_dfs(df1, df2, ligname1, ligname2):
     """ Summarises all interactions of two dfs with interaction fingerprints.
